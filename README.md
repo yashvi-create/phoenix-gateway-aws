@@ -30,8 +30,6 @@ Users access the application through Amazon CloudFront, which routes traffic to 
 ---
 
 ## Architecture Diagram
-
-Upload architecture image here.
 ![Phoenix Gateway Architecture](phoenix-gateway-architecture.png)
 
 ---
